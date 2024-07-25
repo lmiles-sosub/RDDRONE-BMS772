@@ -187,7 +187,7 @@
 #define FLIGHT_MODE_ENABLE_DEFAULT      0              //!< [-]
 #define EMERGENCY_BUTTON_ENABLE_DEFAULT 0              //!< [-]
 #define SMBUS_ENABLE_DEFAULT            0              //!< [-]
-#define GATE_CHECK_ENABLE_DEFAULT       1              //!< [-]
+#define GATE_CHECK_ENABLE_DEFAULT       0              //!< [-]
 #define MODEL_ID_DEFAULT                0              //!< [-]
 #define MODEL_NAME_DEFAULT              "BMS772\0"     //!< [-]
 
